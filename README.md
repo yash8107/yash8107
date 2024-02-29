@@ -3,21 +3,28 @@
 <div align="center">
 
 You have finally discovered my Github profile. <br>
-Please feel free to clone/fork projects, raise issues, and submit PRs if you think something could be better. <br>
-Ask me anything <a href="https://github.com/yash8107/yash8107/issues/new"><b>here</b></a><br>
-or <a href="mailto:yashsinghal8107@gmail.com"><b>email</b></a> me.
+Please feel free to Connect with me if you think something could be better. <br>
 
 <i>Happy Coding!</i> 😊
+
+</br>
+<h2> Connect with me on 👇</h2>
+<a href="https://www.linkedin.com/in/yash-singhal-3aa252176" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn--blue" />
+</a>
+<a href="mailto:yashsinghal8107@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/Gmail--blue" />
+</a>
 
 </div>
 
 <h3>Little facts about me 🧑</h3>
 
-- 🧞 I've been a Tech Enthusiast since childhood.
-- 🔭 I’m working on Fullstack Web Development and Native Mobile Development.
+- 🧞 I’m working as a Fullstack Web Developer.
+- 🔭 Also Working as a freelancer too...
 - 👯 I want to collaborate with Fullstack Web and Mobile Development projects.
 - 💡 Contributing to Open Source Projects has always been my goal.
-- 💬 Ask me about: Fixing Real-time urgent issues or (online opportunities) | Technical Content Writing | Music | Reading | History
+- 💬 Ask me about: Fixing Real-time urgent issues | (Always looking for opportunities) | Technical Content Writing | Music | Reading | History
 - ⚡ Fun fact:
      I love to attend Meetups for learning & Conferences for Networking
      Besides programming, I've been a Technical Content Writer. I'm a Melophile for life and love to cook for my friends and family when I'm free.
@@ -61,6 +68,5 @@ or <a href="mailto:yashsinghal8107@gmail.com"><b>email</b></a> me.
 <a href="https://twitter.com/YashSingha39221" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white" alt="Twitter"></a>
 <a href="https://open.spotify.com/user/p9unugthkc3vy4c7jwgf662kl" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a>
 <a href="https://dev.to/yashsingha39221" target="_blank"><img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV.to"></a>
-
 </div>
-<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/asd.svg" />
