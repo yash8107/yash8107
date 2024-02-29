@@ -1,20 +1,5 @@
 ### Hi there 👋
 
-<!--
-**yash8107/yash8107** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <div align="center">
 
 You have finally discovered my Github profile. <br>
@@ -29,17 +14,22 @@ or <a href="mailto:yashsinghal8107@gmail.com"><b>email</b></a> me.
 <h3>Little facts about me 🧑</h3>
 
 - 🧞 I've been a Tech Enthusiast since childhood.
-- 🔭 I’m working on Fullstack Web Development, and Native Mobile Development.
+- 🔭 I’m working on Fullstack Web Development and Native Mobile Development.
 - 👯 I want to collaborate with Fullstack Web and Mobile Development projects.
 - 💡 Contributing to Open Source Projects has always been my goal.
+- 💬 Ask me about: Fixing Real-time urgent issues or (online opportunities) | Technical Content Writing | Music | Reading | History
 - ⚡ Fun fact:
+     I love to attend Meetups for learning & Conferences for Networking
+     Besides programming, I've been a Technical Content Writer. I'm a Melophile for life and love to cook for my friends and family when I'm free.
+     You know you're a programmer when you spend a day to find the problem, and then fix it with one line of code.
+     If you're still reading, why not follow me ?? Let's Connect !!
+
 <br>
 ---
-<details>
 <summary>
   ✨ Tech stack currently using:
 </summary>
-   <br>
+<br>
 <code><a href="https://www.w3schools.com/html/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"></a></code>
 <code><a href="https://www.w3schools.com/css/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></a></code>
 <code> <a href="https://angular.io/quick-start" target="_blank"> <img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" alt="angular" height="30"/> </a> </code>
@@ -54,11 +44,8 @@ or <a href="mailto:yashsinghal8107@gmail.com"><b>email</b></a> me.
 <code><a href="https://azure.microsoft.com/en-in" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-ar21.svg"></a></code>
 <code><a href="https://www.python.org/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/python/python-icon.svg"></a></code>
 </code>
-  
-</details>
-<be>
-
-
+<br>
+---
 <div align="center">
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=yash8107&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="yash8107's Github Stats">
@@ -76,3 +63,4 @@ or <a href="mailto:yashsinghal8107@gmail.com"><b>email</b></a> me.
 <a href="https://dev.to/yashsingha39221" target="_blank"><img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV.to"></a>
 
 </div>
+<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
