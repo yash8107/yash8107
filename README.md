@@ -2,7 +2,7 @@
 
 <div align="center">
 
-You have finally discovered my Github profile. <br>
+WOW!! You have finally discovered my Github profile. Welcome here...<br>
 Please feel free to Connect with me if you think something could be better. <br>
 
 <i>Happy Coding!</i> 😊
