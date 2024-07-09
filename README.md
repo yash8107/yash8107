@@ -24,7 +24,8 @@ Please feel free to Connect with me if you think something could be better. <br>
 - 🔭 Also Working as a freelancer too...
 - 👯 I want to collaborate with Fullstack Web and Mobile Development projects.
 - 💡 Contributing to Open Source Projects has always been my goal.
-- 💬 Ask me about: Fixing Real-time urgent issues | (Always looking for opportunities) | Technical Content Writing | Music | Reading | History
+- 💬 Ask me about: Fixing Real-time urgent issues | (Always looking for opportunities) | Ideas related to startup | Music | Reading | History
+- For Colab or any work contact me in LinkedIn or in Mail.
 - ⚡ Fun fact:
      I love to attend Meetups for learning & Conferences for Networking
      Besides programming, I've been a Technical Content Writer. I'm a Melophile for life and love to cook for my friends and family when I'm free.
