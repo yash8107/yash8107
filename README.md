@@ -28,7 +28,7 @@ Please feel free to Connect with me if you think something could be better. <br>
 - For Colab or any work contact me in LinkedIn or in Mail.
 - ⚡ Fun fact:
      I love to attend Meetups for learning & Conferences for Networking
-     Besides programming, I've been a Technical Content Writer. I'm a Melophile for life and love to cook for my friends and family when I'm free.
+     Besides programming, I've been a Technical Content Writer. I'm a Melophile for life and love to discuss about startup ideas when I'm free.
      You know you're a programmer when you spend a day to find the problem, and then fix it with one line of code.
      If you're still reading, why not follow me ?? Let's Connect !!
 
