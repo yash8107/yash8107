@@ -20,10 +20,10 @@ Please feel free to Connect with me if you think something could be better. <br>
 
 <h3>Little facts about me 🧑</h3>
 
-- 🧞 I’m working as a Fullstack Web Developer.
+- 🧞 I’m working as a Fullstack Developer & I have Experience of 3+years.
 - 🔭 Also Working as a freelancer too...
 - 👯 I want to collaborate with Fullstack Web and Mobile Development projects.
-- 💡 Contributing to Open Source Projects has always been my goal.
+- 💡 Createing own StartUp/Business has always been my goal.
 - 💬 Ask me about: Fixing Real-time urgent issues | (Always looking for opportunities) | Ideas related to startup | Music | Reading | History
 - For Colab or any work contact me in LinkedIn or in Mail.
 - ⚡ Fun fact:
