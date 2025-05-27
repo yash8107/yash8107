@@ -21,9 +21,8 @@ Please feel free to Connect with me if you think something could be better. <br>
 <h3>Little facts about me 🧑</h3>
 
 - 🧞 I’m working as a Fullstack Developer & I have Experience of 3+years.
-- 🔭 Also Working as a <b>freelancer</b> too...
 - 👯 I want to collaborate with Fullstack Web and Mobile Development projects.
-- 💡 Createing own StartUp/Business has always been my goal.
+- 💡 Creating my own Startup/Business has always been my goal.
 - 💬 Ask me about: Fixing Real-time urgent issues Related to AWS or Development or migrations of service...etc | (Always looking for opportunities) | Ideas related to startup | Music | Reading | History
 - For Colab or any work contact me in LinkedIn or in Mail.
 - ⚡ Fun fact:
